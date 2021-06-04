@@ -1,2 +1,2 @@
 # HELLO-WORLD
-time-honored tradition
+This is my first time to github
